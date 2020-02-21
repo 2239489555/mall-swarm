@@ -2,6 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-admin/mall-admin.iml" filepath="$PROJECT_DIR$/mall-admin/mall-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-config/mall-config.iml" filepath="$PROJECT_DIR$/mall-config/mall-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-demo/mall-demo.iml" filepath="$PROJECT_DIR$/mall-demo/mall-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-gateway/mall-gateway.iml" filepath="$PROJECT_DIR$/mall-gateway/mall-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-mbg/mall-mbg.iml" filepath="$PROJECT_DIR$/mall-mbg/mall-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-monitor/mall-monitor.iml" filepath="$PROJECT_DIR$/mall-monitor/mall-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-portal/mall-portal.iml" filepath="$PROJECT_DIR$/mall-portal/mall-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-registry/mall-registry.iml" filepath="$PROJECT_DIR$/mall-registry/mall-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-search/mall-search.iml" filepath="$PROJECT_DIR$/mall-search/mall-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-security/mall-security.iml" filepath="$PROJECT_DIR$/mall-security/mall-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mall-swarm.iml" filepath="$PROJECT_DIR$/.idea/mall-swarm.iml" />
     </modules>
   </component>
